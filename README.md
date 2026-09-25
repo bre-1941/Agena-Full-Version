@@ -238,4 +238,4 @@ This repository serves as the official landing page for Agena. The software is d
 **Get the most recent version of Agena today!**
 
 ---
-**Last updated:** 2026-09-24 23:38:26 UTC
+**Last updated:** 2026-09-25 02:18:59 UTC
